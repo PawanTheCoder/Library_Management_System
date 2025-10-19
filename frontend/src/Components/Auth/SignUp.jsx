@@ -110,7 +110,7 @@ const SignUp = () => {
     <div className={styles.authBg}>
       <div className={styles.authContainer}>
         <div className={styles.logoSection}>
-          <span className={styles.logo}><img src={logo} alt="" /></span>
+          <span className={styles.logo}><img src={logo} alt="" height="70" /></span>
           <h1 className={styles.title}>Library Management</h1>
         </div>
 
